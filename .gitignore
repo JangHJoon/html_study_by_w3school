@@ -1,3 +1,7 @@
+# Server dir
+
+Servers/
+
 
 # Created by https://www.gitignore.io/api/java,eclipse,windows
 
@@ -11,7 +15,7 @@ tmp/
 *.swp
 *~.nib
 local.properties
-.settings/
+#.settings/
 .loadpath
 .recommenders
 
