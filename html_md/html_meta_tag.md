@@ -22,6 +22,12 @@ Set chache expire time
 
 
 ```html
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
+Set the viewport of your page, which will give the browser instructions on how to control the page's dimensions and scaling.
+
+
+```html
 <meta http-equiv="refresh" content="30">
 ```
 Refresh document every 30 seconds
