@@ -7,6 +7,15 @@ A block-level element always starts on a new line and takes up the full width av
 
 The `<div>` element is a block-level element.
 
+```html
+<div>
+<h1> - <h6>
+<p>
+<form>
+<header>
+<footer>
+<section>
+```
 
 
 ## Inline Elements
@@ -15,6 +24,10 @@ An inline element does not start on a new line and only takes up as much width a
 
 This is an inline `<span>` element inside a paragraph.
 
-
+```html
+<span>
+<a>
+<img>
+```
 
 

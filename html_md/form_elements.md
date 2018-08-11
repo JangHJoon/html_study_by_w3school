@@ -1,5 +1,15 @@
 # HTML Form Elements
 
+
+## TextArea
+
+The `<textarea>` element defines a multi-line input field 
+```html
+<textarea name="message" rows="10" cols="30">
+The cat was playing in the garden.
+</textarea>
+```
+
 ## Radio Button
 
 Radio buttons let a user select ONE of a limited number of choices:

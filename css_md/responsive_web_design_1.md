@@ -31,3 +31,21 @@ If the max-width property is set to 100%, the image will scale down if it has to
 ```html
 <img src="img_girl.jpg" style="max-width:100%;height:auto;">
 ```
+
+## Responsive Table
+
+A responsive table will display a horizontal scroll bar if the screen is too small to display the full content
+
+Add a container element with `overflow-x:auto` around the table element to make it responsive
+
+```html
+<div style="overflow-x:auto;">
+
+<table>
+ <!-- table content -->
+</table>
+
+</div>
+```
+
+https://www.w3schools.com/css/tryit.asp?filename=trycss_table_responsive
