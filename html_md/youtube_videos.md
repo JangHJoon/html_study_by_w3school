@@ -10,9 +10,6 @@ Converting videos to different formats can be difficult and time-consuming.
 An easier solution is to let YouTube play the videos in your web page.
 
 ## Using <iframe> (recommended)
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
 ```html
 <iframe width="420" height="315"
 src="https://www.youtube.com/embed/tgbNymZ7vqY">
@@ -20,16 +17,12 @@ src="https://www.youtube.com/embed/tgbNymZ7vqY">
 ```
 
 ## Using <object> (deprecated)
-<object width="420" height="315"
-data="https://www.youtube.com/embed/tgbNymZ7vqY">
 ```html
 <object width="420" height="315"
 data="https://www.youtube.com/embed/tgbNymZ7vqY">
 ```
 </object>
 ## Using <embed> (deprecated)
-<embed width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
 ```html
 <embed width="420" height="315"
 src="https://www.youtube.com/embed/tgbNymZ7vqY">
